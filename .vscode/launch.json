@@ -1,0 +1,580 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch p59",
+            "request": "launch",
+            "mainClass": "offer.p59",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p58_1",
+            "request": "launch",
+            "mainClass": "offer.p58_1",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p57_2",
+            "request": "launch",
+            "mainClass": "offer.p57_2",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p57",
+            "request": "launch",
+            "mainClass": "offer.p57",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p54",
+            "request": "launch",
+            "mainClass": "offer.p54",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p53_2",
+            "request": "launch",
+            "mainClass": "offer.p53_2",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p53_1",
+            "request": "launch",
+            "mainClass": "offer.p53_1",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p51",
+            "request": "launch",
+            "mainClass": "offer.p51",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p50",
+            "request": "launch",
+            "mainClass": "offer.p50",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p29",
+            "request": "launch",
+            "mainClass": "offer.p29",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "NowCoder.Main",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p26",
+            "request": "launch",
+            "mainClass": "offer.p26",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p24",
+            "request": "launch",
+            "mainClass": "offer.p24",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p23",
+            "request": "launch",
+            "mainClass": "offer.p23",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p22",
+            "request": "launch",
+            "mainClass": "offer.p22",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p21",
+            "request": "launch",
+            "mainClass": "offer.p21",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p147",
+            "request": "launch",
+            "mainClass": "problems.p147",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p18",
+            "request": "launch",
+            "mainClass": "offer.p18",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p17",
+            "request": "launch",
+            "mainClass": "offer.p17",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p16",
+            "request": "launch",
+            "mainClass": "offer.p16",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p15",
+            "request": "launch",
+            "mainClass": "offer.p15",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p14_1",
+            "request": "launch",
+            "mainClass": "offer.p14_1",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p13",
+            "request": "launch",
+            "mainClass": "offer.p13",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p12",
+            "request": "launch",
+            "mainClass": "offer.p12",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p11",
+            "request": "launch",
+            "mainClass": "offer.p11",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p10",
+            "request": "launch",
+            "mainClass": "offer.p10",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p09",
+            "request": "launch",
+            "mainClass": "offer.p09",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p06",
+            "request": "launch",
+            "mainClass": "offer.p06",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p05",
+            "request": "launch",
+            "mainClass": "offer.p05",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p04",
+            "request": "launch",
+            "mainClass": "offer.p04",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p107",
+            "request": "launch",
+            "mainClass": "problems.p107",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p102",
+            "request": "launch",
+            "mainClass": "problems.p102",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p200",
+            "request": "launch",
+            "mainClass": "problems.p200",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p938",
+            "request": "launch",
+            "mainClass": "problems.p938",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p46",
+            "request": "launch",
+            "mainClass": "problems.p46",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p77",
+            "request": "launch",
+            "mainClass": "problems.p77",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p78",
+            "request": "launch",
+            "mainClass": "problems.p78",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p22",
+            "request": "launch",
+            "mainClass": "problems.p22",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p53",
+            "request": "launch",
+            "mainClass": "problems.p53",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p169",
+            "request": "launch",
+            "mainClass": "problems.p169",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p344",
+            "request": "launch",
+            "mainClass": "problems.p344",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataChecker",
+            "request": "launch",
+            "mainClass": "Common.DataChecker",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeTraversal",
+            "request": "launch",
+            "mainClass": "Common.TreeTraversal",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Common.test",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "Sort.BubbleSort",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSort",
+            "request": "launch",
+            "mainClass": "Sort.CountSort",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "Sort.InsertionSort",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "Sort.MergeSort",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "Sort.QuickSort",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "Sort.SelectionSort",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShellSort",
+            "request": "launch",
+            "mainClass": "Sort.ShellSort",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch problems",
+            "request": "launch",
+            "mainClass": "leetcode.problems",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch problems2",
+            "request": "launch",
+            "mainClass": "leetcode.problems2",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p141",
+            "request": "launch",
+            "mainClass": "problems.p141",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p1456",
+            "request": "launch",
+            "mainClass": "problems.p1456",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p2",
+            "request": "launch",
+            "mainClass": "problems.p2",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p20",
+            "request": "launch",
+            "mainClass": "problems.p20",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p203",
+            "request": "launch",
+            "mainClass": "problems.p203",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p206",
+            "request": "launch",
+            "mainClass": "problems.p206",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p209",
+            "request": "launch",
+            "mainClass": "problems.p209",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p215",
+            "request": "launch",
+            "mainClass": "problems.p215",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p217",
+            "request": "launch",
+            "mainClass": "problems.p217",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p27",
+            "request": "launch",
+            "mainClass": "problems.p27",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p283",
+            "request": "launch",
+            "mainClass": "problems.p283",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p3",
+            "request": "launch",
+            "mainClass": "problems.p3",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p35",
+            "request": "launch",
+            "mainClass": "problems.p35",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p389",
+            "request": "launch",
+            "mainClass": "problems.p389",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p4",
+            "request": "launch",
+            "mainClass": "problems.p4",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p485",
+            "request": "launch",
+            "mainClass": "problems.p485",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p496",
+            "request": "launch",
+            "mainClass": "problems.p496",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p5",
+            "request": "launch",
+            "mainClass": "problems.p5",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p509",
+            "request": "launch",
+            "mainClass": "problems.p509",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p692",
+            "request": "launch",
+            "mainClass": "problems.p692",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p704",
+            "request": "launch",
+            "mainClass": "problems.p704",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p705",
+            "request": "launch",
+            "mainClass": "problems.p705",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p74",
+            "request": "launch",
+            "mainClass": "problems.p74",
+            "projectName": "leetcode_8f50059b"
+        },
+        {
+            "type": "java",
+            "name": "Launch p881",
+            "request": "launch",
+            "mainClass": "problems.p881",
+            "projectName": "leetcode_8f50059b"
+        }
+    ]
+}
