@@ -13,33 +13,52 @@ public class p68_1 {
         TreeNode treeQ = root;
         while (treeQ != null) {
             pathQ.add(treeQ);
-            if (treeQ == q) {
+            if (treeQ.val == q.val) {
                 break;
             } else if (treeQ.val > q.val) {
-                treeQ = treeQ.right;
-            } else {
                 treeQ = treeQ.left;
+            } else {
+                treeQ = treeQ.right;
             }
         }
         TreeNode treeP = root;
         while (treeP != null) {
             pathP.add(treeP);
-            if (treeP == q) {
+            if (treeP.val == p.val) {
                 break;
-            } else if (treeP.val > q.val) {
-                treeP = treeP.right;
-            } else {
+            } else if (treeP.val > p.val) {
                 treeP = treeP.left;
+            } else {
+                treeP = treeP.right;
             }
         }
 
-        for (int i = 0; i < pathP.size(); i++) {
-            if (pathP.get(i)!=pathQ.get(i)){
-                res=pathP.get(i-1);
-                break;
+        int len=Math.min(pathP.size(),pathQ.size());
+        for (int i = 0; i < len; i++) {
+            if (pathP.get(i)==pathQ.get(i)){
+                res=pathP.get(i);
+
+            }else {
+             break;
             }
         }
+
         return res  ;
+    }
+    public TreeNode lowestCommonAncestorBetter(TreeNode root, TreeNode p, TreeNode q) {
+        if (p.val>q.val){
+            TreeNode temp=p;
+            p=q;
+            q=temp;
+        }
+        while (root!=null){
+            if (root.val<p.val){
+                root=root.right;
+            }else if (root.val>q.val){
+                root=root.left;
+            }else {break;}
+        }
+        return root;
     }
 
     public static void main(String[] args) {
@@ -53,7 +72,9 @@ public class p68_1 {
         TreeNode node2_2=new TreeNode(8,node3_3,node3_4);
         TreeNode root=new TreeNode(6,node2_1,node2_2);
 
-        System.out.println(new p68_1().lowestCommonAncestor(root,new TreeNode(2),new TreeNode(8)));
-        System.out.println(new p68_1().lowestCommonAncestor(root,new TreeNode(2),new TreeNode(4)));
+        System.out.println(new p68_1().lowestCommonAncestorBetter(root,new TreeNode(2),new TreeNode(8)).val);
+        System.out.println(new p68_1().lowestCommonAncestorBetter(root,new TreeNode(2),new TreeNode(4)).val);
+
+
     }
 }
