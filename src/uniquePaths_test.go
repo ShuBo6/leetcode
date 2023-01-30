@@ -6,6 +6,8 @@ func TestUniquePaths(t *testing.T) {
 	t.Log(uniquePaths(3, 7))
 	t.Log(uniquePaths(7, 3))
 }
+
+// 方格地图 左上角 走到右下角有多少种路径
 func uniquePaths(m int, n int) int {
 	var dp = make([][]int, m)
 	for i := 0; i < m; i++ {
