@@ -1,11 +1,17 @@
 # leetcode
 
-我的刷题 ~~日常~~ （JAVA）
+力扣 代码仓 
 
-包名             |        文件说明
-|  ----         | ----                      |
-|problems        |     leetcode主站题目         |
-|offer           |     leetcode剑指offer题目|
-|DataStructure   |     设计题用到的数据结构|
-|Sort|十大排序算法|
-|Common|一些其他代码|
+
+
+
+
+分支名             |        内容
+|  ----           | ----                      |
+|hot-100-go       |一刷 《leetcode-hot-100》go版本|
+|go               |      早期go刷题代码|
+|java             |     远古Java时期刷题代码         |
+|SwordOffer       |     远古Java时期《剑指offer》|
+
+
+
